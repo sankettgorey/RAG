@@ -1,0 +1,7 @@
+langchain
+langchain-experimental
+langchain-ollama
+langchain-openai
+pymupdf
+chromadb
+spacy
