@@ -5,3 +5,5 @@ langchain-openai
 pymupdf
 chromadb
 spacy
+unstructured
+unstructured[pdf]
